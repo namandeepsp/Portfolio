@@ -1,0 +1,87 @@
+{
+  "siteMetadata": {
+    "title": "Naman's Nook - Portfolio",
+    "description": "Welcome to Naman's personal portfolio. Discover projects, skills, and experiences."
+  },
+  "navbar": {
+    "brandName": "Naman's Nook",
+    "mobileNavTitle": "Navigation"
+  },
+  "heroSection": {
+    "mainName": "Naman",
+    "mainSurname": "Deep Singh",
+    "subtitle": "Creative Full-Stack Developer & AI Enthusiast",
+    "tagline": "Transforming ideas into innovative digital solutions. Exploring the frontiers of technology and design.",
+    "ctaViewWork": "View My Work",
+    "ctaGetInTouch": "Get In Touch",
+    "scrollToAboutAlt": "Scroll to about section"
+  },
+  "aboutSection": {
+    "title": "About Me",
+    "greeting": "Hello, I'm Naman!",
+    "paragraph1": "I'm a passionate Full-Stack Developer with a keen eye for detail and a love for crafting elegant, efficient, and user-friendly digital experiences. My journey in tech has been driven by a relentless curiosity and a desire to solve real-world problems through innovative software solutions.",
+    "paragraph2": "With expertise spanning front-end technologies like React and Next.js, to back-end systems with Node.js and Python, I enjoy building comprehensive applications from scratch. I'm particularly fascinated by the potential of AI and am actively exploring ways to integrate intelligent features into my projects.",
+    "paragraph3": "When I'm not coding, you can find me exploring new technologies, contributing to open-source projects, or enjoying a good cup of coffee."
+  },
+  "displayControlsSection": {
+    "title": "Customize Displayed Sections",
+    "experienceLabel": "Work Experience",
+    "experienceDescription": "Show or hide the work experience section.",
+    "projectsLabel": "Projects",
+    "projectsDescription": "Show or hide the projects section.",
+    "certificatesLabel": "Certificates",
+    "certificatesDescription": "Show or hide the certificates section."
+  },
+  "experienceSection": {
+    "title": "Work Experience",
+    "subtitle": "My professional journey and contributions."
+  },
+  "projectsSection": {
+    "title": "Projects",
+    "subtitle": "A selection of my work and personal projects.",
+    "filterLabel": "Filter by Stack/Features:",
+    "clearFiltersButton": "Clear Filters",
+    "noProjectsMessage": "No projects match the selected filters. Try clearing them or selecting fewer tags.",
+    "keyFeaturesLabel": "Key Features:",
+    "liveDemoButton": "Live Demo",
+    "sourceCodeButton": "Source Code"
+  },
+  "skillsSection": {
+    "title": "Skills & Technologies",
+    "subtitle": "My proficiency in various tools and technologies."
+  },
+  "certificatesSection": {
+    "title": "Certificates & Awards",
+    "subtitle": "My achievements and recognitions.",
+    "issuedLabel": "Issued:",
+    "viewCredentialButton": "View Credential"
+  },
+  "resumeAssistantSection": {
+    "title": "AI Resume Assistant",
+    "subtitle": "Get AI-powered feedback on your resume.",
+    "pasteResumeTitle": "Paste Your Resume",
+    "resumeContentLabel": "Resume Content",
+    "resumePlaceholder": "Paste the full text of your resume here...",
+    "getCritiqueButton": "Get Critique",
+    "analyzingButton": "Analyzing...",
+    "errorAlertTitle": "Error",
+    "errorAlertDescription": "An error occurred while analyzing your resume. Please try again.",
+    "strengthsTitle": "Strengths",
+    "weaknessesTitle": "Weaknesses",
+    "suggestionsTitle": "Suggestions",
+    "loadingMessage": "Analyzing your resume...",
+    "initialMessage": "Your resume analysis will appear here once you submit your resume text."
+  },
+  "contactSection": {
+    "title": "Get In Touch",
+    "subtitle": "Let's connect! I'm always open to new opportunities and collaborations.",
+    "introParagraph": "Feel free to reach out via email or connect with me on social media. You can also download my resume for a more detailed look at my experience.",
+    "downloadResumeButton": "Download My Resume",
+    "resumeNote": "(Note: Resume download is a placeholder. Please replace `/resume.pdf` with the actual file path.)"
+  },
+  "footer": {
+    "brandName": "Naman's Nook",
+    "copyrightSuffix": "All rights reserved.",
+    "builtWithText": "Built with Next.js, Tailwind CSS, and ❤️"
+  }
+}
