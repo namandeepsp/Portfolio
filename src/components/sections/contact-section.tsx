@@ -54,9 +54,6 @@ export function ContactSection() {
             {contactContent.downloadResumeButton}
           </Link>
         </Button>
-        <p className="mt-6 text-sm text-muted-foreground">
-          {contactContent.resumeNote}
-        </p>
       </div>
     </SectionWrapper>
   );
