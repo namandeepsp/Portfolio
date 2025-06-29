@@ -48,7 +48,7 @@ export function ContactSection() {
           <Link
             href="/assets/Naman-deep-singh.pdf"
             target="_blank"
-            download="Naman-deep-singh-resume.pdf"
+            download="Naman-deep-singh.pdf"
           >
             <Download className="mr-2 h-5 w-5" />
             {contactContent.downloadResumeButton}
