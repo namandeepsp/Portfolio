@@ -1,24 +1,22 @@
 import linkedin from "@/components/common/icons/Linkedin";
 import type {
-  WorkExperience,
-  Project,
-  Skill,
   Certificate,
   NavItem,
+  Project,
+  Skill,
+  WorkExperience,
 } from "@/types";
 import {
-  Linkedin,
-  Github,
-  Mail,
-  Briefcase,
-  Lightbulb,
-  Code,
   Award,
-  Cpu,
-  Palette,
-  Database,
   BrainCircuit,
-  ExternalLink,
+  Briefcase,
+  Code,
+  Cpu,
+  Database,
+  GitBranch,
+  Lightbulb,
+  Mail,
+  Palette
 } from "lucide-react";
 
 export const navItems: NavItem[] = [
@@ -220,10 +218,10 @@ export const certificates: Certificate[] = [
 export const socialLinks = [
   {
     name: "LinkedIn",
-    url: "https://www.linkedin.com/in/naman-deep-980a62211/",
+    url: "https://www.linkedin.com/in/naman-deep-singh-980a62211",
     icon: linkedin,
   },
-  { name: "GitHub", url: "https://github.com/naman-deep-singh", icon: Github },
+  { name: "GitHub", url: "https://github.com/namandeepsp/", icon: GitBranch },
   { name: "Email", url: "mailto:namand.official@gmail.com", icon: Mail },
 ];
 
